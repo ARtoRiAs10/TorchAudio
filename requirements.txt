@@ -1,0 +1,5 @@
+torch
+torchaudio
+jupyter
+matplotlib
+librosa
